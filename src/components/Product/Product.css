@@ -1,6 +1,17 @@
 .product {
     border: 2px solid skyblue;
     padding: 20px;
-    margin: 20px;
     border-radius: 20px;
+    background-color: rgba(135, 207, 235, 0.788);
+}
+
+button {
+    background-color: wheat;
+    border: none;
+    margin-right: 10px;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 900;
+    cursor: pointer;
 }
